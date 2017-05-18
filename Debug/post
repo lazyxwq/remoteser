@@ -1,0 +1,14 @@
+ST / HTTP/1.1
+Host: 192.168.198.4:2345
+Connection: keep-alive
+Content-Length: 0
+mac: 4f1e377ba3d645aecca08de5b0e1d227
+Cache-Control: no-cache
+Origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+Postman-Token: bce8d422-5ec2-dc74-c322-f4a0b1cfbae3
+Accept: */*
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8
+
+

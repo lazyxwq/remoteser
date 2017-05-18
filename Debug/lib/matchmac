@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+i=`grep "mac" /tmp/ports | tr -d "\r\n" | awk '{print $2}'`
+echo "$i"
